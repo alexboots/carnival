@@ -8,8 +8,8 @@ function Index() {
       <section>
         <Link href="/about">
           <a>Go to About Me</a>
-          add this: https://github.com/isaachinman/next-i18next/tree/master/examples/simple
         </Link>
+         add this: https://github.com/isaachinman/next-i18next/tree/master/examples/simple
       </section>
     </main>
   );
